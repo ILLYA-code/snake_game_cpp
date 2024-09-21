@@ -1,0 +1,17 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+.vs/
+*.user
+*.suo
+
+# Auto-generated files
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+
+# Visual Studio Code directories
+.vscode/
